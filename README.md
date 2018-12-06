@@ -25,3 +25,10 @@ Required softwares:
 
 Optional
   Download and install Python 2.7 from [here](https://www.python.org/download/releases/2.7/).
+
+Sample datasets:
+
+- __ACC__ input
+  - [Sample dataset](http://acc.ethz.ch/imagecounter/downloadPage.php?fileName=ACC/Test-ProjectFolder01.zip)
+- __HCS__ input
+  - (...being extended...)
