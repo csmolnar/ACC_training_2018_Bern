@@ -31,5 +31,5 @@ Sample datasets:
 
 - __ACC__ input
   - [Sample dataset](http://acc.ethz.ch/imagecounter/downloadPage.php?fileName=ACC/Test-ProjectFolder01.zip)
-- __HCS__ input
+- __HCS__ input (for flat field correction and focus detection)
   - (...being extended...)
