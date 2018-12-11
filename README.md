@@ -15,7 +15,8 @@ All the following softwares are recommended to be installed by the time of the t
 Required softwares:
 
 - __CIDRE__
-  - Download the standalone version of CIDRE illumination correction from [here](https://github.com/smithk/cidre).
+  - Download the ImageJ version of CIDRE illumination correction from [here](https://github.com/smithk/cidre).
+  - Download ImageJ from [here](https://imagej.net/Fiji/Downloads). Copy the Cidre_Plugin.jar file to the plugin directory of ImageJ.
 - __CellProfiler 2.2.0__
   - Download CellProfiler 2.2.0 release from [here](http://cellprofiler.org/previous_releases/).
   - Be aware of non-English characters in the path of your home directory! If you have those, you have to change the plugin directory by editing registry.
@@ -30,5 +31,5 @@ Sample datasets:
 
 - __ACC__ input
   - [Sample dataset](http://acc.ethz.ch/imagecounter/downloadPage.php?fileName=ACC/Test-ProjectFolder01.zip)
-- __HCS__ input
+- __HCS__ input (for flat field correction and focus detection)
   - (...being extended...)
