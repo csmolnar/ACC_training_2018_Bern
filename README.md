@@ -29,7 +29,8 @@ Optional
 
 Sample datasets:
 
-- __ACC__ input
-  - [Sample dataset](http://acc.ethz.ch/imagecounter/downloadPage.php?fileName=ACC/Test-ProjectFolder01.zip)
 - __HCS__ input (for flat field correction and focus detection)
-  - (...being extended...)
+  - [Small dataset](https://drive.google.com/open?id=1WEhhCirTY--eyRZ_Siv9R0evXE-nRtN2) (~300MB)
+  - [Big dataset](https://drive.google.com/open?id=1qlLCxCqjEl5pOefEH1ktkwZJ2LwgVVg1) (~3GB)
+- __ACC__ sample input
+  - [Sample dataset](http://acc.ethz.ch/imagecounter/downloadPage.php?fileName=ACC/Test-ProjectFolder01.zip)
