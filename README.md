@@ -33,6 +33,7 @@ Sample datasets:
   - [Small dataset](https://drive.google.com/open?id=1WEhhCirTY--eyRZ_Siv9R0evXE-nRtN2) (~300MB)
   - [Big dataset](https://drive.google.com/open?id=1qlLCxCqjEl5pOefEH1ktkwZJ2LwgVVg1) (~3GB)
 - __Segmentation__ input (after steps flat field correction and focus detection)
-  - [Small dataset](https://drive.google.com/open?id=1F5Wa_KCrpnyu8afbAamEp9ac76zesCcg)
+  - [Small dataset](https://drive.google.com/open?id=1F5Wa_KCrpnyu8afbAamEp9ac76zesCcg) (~180MB)
+  - [Big dataset](https://drive.google.com/open?id=1MPXjDr1qbkkqIhsSDJP3NVbOjHBhqT18) (~1.8GB)
 - __ACC__ sample input
   - [Sample dataset](http://acc.ethz.ch/imagecounter/downloadPage.php?fileName=ACC/Test-ProjectFolder01.zip)
