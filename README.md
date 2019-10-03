@@ -25,7 +25,7 @@ Required softwares:
   - Download [ExportToACC](http://eucaiorg.ipage.com/ACC/wp-content/uploads/2016/07/ExportToACCmodule.zip) CellProfiler module for saving data in ACC format. Copy exporttoacc.py file into the CellProfiler's plugins directory (File->Preferences->CellProfiler plugins directory).
 
 Optional
-  Download and install Python 2.7 from [here](https://www.python.org/download/releases/2.7/).
+  - Download and install Python 2.7 from [here](https://www.python.org/download/releases/2.7/).
 
 Sample datasets:
 
