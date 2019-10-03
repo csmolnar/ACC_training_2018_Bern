@@ -24,7 +24,7 @@ Required softwares:
   - Download ACC 3.0 standalone version from [here](http://www.cellclassifier.org/download/). You can use the standalone version after installation of [Matlab Runtime](https://se.mathworks.com/products/compiler/matlab-runtime.html) release R2017a.
   - Download [ExportToACC](http://eucaiorg.ipage.com/ACC/wp-content/uploads/2016/07/ExportToACCmodule.zip) CellProfiler module for saving data in ACC format. Copy exporttoacc.py file into the CellProfiler's plugins directory (File->Preferences->CellProfiler plugins directory).
 
-Optional
+Optional:
   - Download and install Python 2.7 from [here](https://www.python.org/download/releases/2.7/).
 
 Sample datasets:
